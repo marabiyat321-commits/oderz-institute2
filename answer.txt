@@ -1,0 +1,6 @@
+Home opens in the same tab
+Courses opens in the same tab
+Contact opens in the same tab
+Requirements jumps to the section
+Email opens the email app
+YouTube opens in a new tab
